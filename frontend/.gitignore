@@ -1,0 +1,28 @@
+# dependencies
+/node_modules
+package-lock.json
+
+# testing
+/coverage
+
+# production
+/build
+
+# environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE
+.vscode/
+.idea/
+
+# debugging
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# misc
+.DS_Store
